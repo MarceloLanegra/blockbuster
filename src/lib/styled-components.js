@@ -9,7 +9,12 @@ const elements = [
   'img',
   'article',
   'footer',
-  'header'
+  'header',
+  'form',
+  'input',
+  'button',
+  'select',
+  'section'
 ]
 
 elements.forEach((tag) => {
